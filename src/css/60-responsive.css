@@ -12,10 +12,19 @@
     }
 
     #application #header.small {
-       height: 150px;
+        height: 150px;
+    }
+
+    #application #header.small .albumart{
+        height: 100px;
+        width: 100px;
     }
 
     #application #header.small .lefttext{
+        padding-top: 90px;
+    }
+
+    #application #header.small .centertext{
         padding-top: 90px;
     }
 
